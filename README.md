@@ -1,5 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+Testy: A testing playground currently using a rect app to test file structure, selenium, jest, enzyme, etc.
 
+## Before Running `npm test`
+Make sure the chromedriver is downloaded and included in your path (https://chromedriver.chromium.org/)
+
+<br />
+<br />
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
 In the project directory, you can run:
