@@ -19,6 +19,7 @@ const App: React.FC = () => {
           Learn React
         </a>
       </header>
+      <button onClick={() => alert('wow clicked the testButton')} id='testButton'>Test Button</button>
     </div>
   );
 }
